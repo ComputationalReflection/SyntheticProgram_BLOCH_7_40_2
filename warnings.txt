@@ -1,0 +1,8 @@
+BLOCH-7.40.2;A3.java;5;PARAMETER_DEC;PARAMETER es.uniovi.reflection.bloch_7_40_2.noncompliant.A2 objectA2_1
+BLOCH-7.40.2;C3.java;5;PARAMETER_DEC;PARAMETER es.uniovi.reflection.bloch_7_40_2.noncompliant.C2 objectC2_1
+BLOCH-7.40.2;B3.java;5;PARAMETER_DEC;PARAMETER es.uniovi.reflection.bloch_7_40_2.noncompliant.B2 objectB2_1
+BLOCH-7.40.2;ND1.java;8;PARAMETER_DEC;PARAMETER es.uniovi.reflection.bloch_7_40_2.noncompliant.C2 objectC2_1
+BLOCH-7.40.2;ND1.java;14;PARAMETER_DEC;PARAMETER es.uniovi.reflection.bloch_7_40_2.noncompliant.IterClass i
+BLOCH-7.40.2;ND1.java;20;PARAMETER_DEC;PARAMETER es.uniovi.reflection.bloch_7_40_2.noncompliant.C2 c2
+BLOCH-7.40.2;ND1.java;26;PARAMETER_DEC;PARAMETER java.util.ArrayList<java.lang.Long> l
+BLOCH-7.40.2;ND1.java;33;PARAMETER_DEC;PARAMETER java.util.HashMap<java.lang.String,java.lang.Integer> m
